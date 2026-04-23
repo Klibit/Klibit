@@ -7,11 +7,11 @@ Mechatronics Engineer | Test Engineer
 
 # Projects
 - Personal Dashboard
-    Custom UI, AI assisted API integrations
+    - Custom UI, AI assisted API integrations
 - Home Automation
-    Home Assistant with custom voice assistant
+    - Home Assistant with custom voice assistant
 - Personal VM/Home lab (Jellyfin, NAS)
-    Selfhosted backend for automation
+    - Selfhosted backend for automation
 - Microelectronics projects for model layout table
 
 # Focus
